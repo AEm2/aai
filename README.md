@@ -10,3 +10,5 @@ IDE: eric6, project files included.
 
 To execute run:
 aai_gui.py
+
+PDF output uses http://pybrary.net/pyPdf/ module, a local copy included in this repository.
