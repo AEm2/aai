@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-5.1.dtd">
+<!-- eric6 tasks file for project AnalyseAndIntegrateTLC_Eric -->
+<!-- Saved: 2017-02-13, 09:45:10 -->
+<Tasks version="5.1">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: make halfLaneWidth dependent on maxima and minima</Summary>
+    <Description></Description>
+    <Created>2016-11-18, 17:57:39</Created>
+    <Resource>
+      <Filename>analyseAndIntegrate04.py</Filename>
+      <Linenumber>88</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: waves 30 is an arbitrary choice, fix this</Summary>
+    <Description></Description>
+    <Created>2016-11-18, 17:57:39</Created>
+    <Resource>
+      <Filename>analyseAndIntegrate04.py</Filename>
+      <Linenumber>395</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: threshold 40 is an arbitrary choice, fix.</Summary>
+    <Description></Description>
+    <Created>2016-11-18, 17:57:39</Created>
+    <Resource>
+      <Filename>analyseAndIntegrate04.py</Filename>
+      <Linenumber>400</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2016-12-14, 12:26:09</Created>
+    <Resource>
+      <Filename>ui/dialog_chooseproject.py2</Filename>
+      <Linenumber>31</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2016-12-14, 12:26:09</Created>
+    <Resource>
+      <Filename>ui/dialog_chooseproject.py2</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: get the output folder using dialog</Summary>
+    <Description></Description>
+    <Created>2016-12-16, 11:33:03</Created>
+    <Resource>
+      <Filename>dataOutput.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: set y-range from 0 to 1 permanently</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>130</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: make project specific</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>154</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: Progress Dialog on this one</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>185</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: test that this works properly</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>205</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: what if the user wants the data updated?</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>216</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: maximise the dynamic range of the image by setting the HistogramLUT</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>379</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: increase dynamic range of the image</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>454</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1">
+    <Summary>TODO: save state and remember the last selected item</Summary>
+    <Description></Description>
+    <Created>2017-01-02, 12:14:16</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>626</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

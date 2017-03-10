@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project AnalyseAndIntegrateTLC_Eric -->
+<!-- Saved: 2017-03-05, 23:49:04 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{196d46e8-55da-4aba-93e4-e9cfd2fec78e}">
+    <Summary>TODO: make halfLaneWidth dependent on maxima and minima</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:32:44</Created>
+    <Resource>
+      <Filename>aai.py</Filename>
+      <Linenumber>79</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b239542f-6cc9-4d4d-a33c-949a6ffed00c}">
+    <Summary>TODO: get the output folder using dialog</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:32:44</Created>
+    <Resource>
+      <Filename>dataOutput.py</Filename>
+      <Linenumber>7</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{02fc7f29-7a17-4317-8f6c-d6b76d1d2049}">
+    <Summary>TODO: the window parameter could be the window itself if an array instead of a string</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:32:44</Created>
+    <Resource>
+      <Filename>smooth.py</Filename>
+      <Linenumber>38</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="3" uid="{0c5743af-9184-4511-a59f-e51d36d0765d}">
+    <Summary>NOTE: length(output) != length(input), to correct this: return y[(window_len/2-1):-(window_len/2)] instead of just y.</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:32:44</Created>
+    <Resource>
+      <Filename>smooth.py</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{55de3bf9-b241-4ce7-a7a7-c05bd7a22fdd}">
+    <Summary>TODO: try own curve fitting using http://scipy-cookbook.readthedocs.io/items/robust_regression.html</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:33:42</Created>
+    <Resource>
+      <Filename>curveFit.py</Filename>
+      <Linenumber>59</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{dc2741ec-8505-44d6-93d7-3e047e2ce25d}">
+    <Summary>TODO: set y-range from 0 to 1 permanently</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>130</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e1e29123-86b2-41e2-b7fb-e0193080fe37}">
+    <Summary>TODO: make project specific</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>154</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{03b3c190-a344-4aff-a5c0-ee3e7689c9ee}">
+    <Summary>TODO: Progress Dialog on this one</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>185</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{18bcc73d-9e6e-47d3-8d45-17870d612130}">
+    <Summary>TODO: test that this works properly</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>205</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ce521774-9a03-44ac-bb9f-b6bb6ca493c1}">
+    <Summary>TODO: what if the user wants the data updated?</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>216</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{552cda24-7cbd-48ca-ba2b-38d3953cedf4}">
+    <Summary>TODO: maximise the dynamic range of the image by setting the HistogramLUT</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>379</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e4528612-5a3b-4206-bc77-a72e8ccae10a}">
+    <Summary>TODO: increase dynamic range of the image</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>454</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7157df2a-f21b-4121-97fc-ebc745fce764}">
+    <Summary>TODO: save state and remember the last selected item</Summary>
+    <Description></Description>
+    <Created>2017-03-05, 23:44:04</Created>
+    <Resource>
+      <Filename>ui/mainwindow.py</Filename>
+      <Linenumber>627</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
